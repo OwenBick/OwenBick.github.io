@@ -1,0 +1,86 @@
+body {
+    background: #1f2235;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+.navigation-link {
+    border: 2px solid transparent;
+}
+
+.navigation-link:hover {
+    text-decoration: none;
+    border-bottom: 2px solid #f5ba09;
+    transition: 0.5s ease;
+}
+
+.nav-pills {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+}
+
+.main-container {
+    min-height: 100vh;
+    padding-top: 5rem;
+}
+
+.main-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.projects img {
+    width: auto;
+    height: 18rem;
+}
+
+.contact img {
+    width: auto;
+    height: 5rem;
+}
+
+.skills img {
+    width: auto;
+    height: 5rem;
+    padding: 8px;
+}
+
+.linkedIn-image {
+    width: auto;
+    max-height: 30px;
+}
+
+.portfolio-projects {
+    padding: 8px;
+}
+
+.phone-image {
+    width: auto;
+    max-height: 30px;
+}
+
+.phone-num {
+    margin: 10px;
+}
+
+.twitter-image {
+    width: auto;
+    max-height: 30px;
+}
+
+.github-image {
+    width: auto;
+    max-height: 30px;
+}
+
+.self img {
+    width: auto;
+    height: 30rem;
+}
+
+
+.about {
+    font-family: "Poppins", sans-serif;
+    font-size: large;
+}
