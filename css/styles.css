@@ -40,6 +40,10 @@ body {
     height: 5rem;
 }
 
+.link {
+ font-size: 18px;
+}
+
 .skills img {
     width: auto;
     height: 5rem;
